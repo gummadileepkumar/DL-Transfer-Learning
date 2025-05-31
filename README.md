@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: Gumma Dileep Kumar
 
-### Register Number:
+### Register Number: 212222240032
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
